@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'didaside'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C55D6C6CB774B54802858F477388E04 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA153E9088494318B22F69CD1F135DC5 }}
           package: .
